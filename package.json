@@ -1,0 +1,9 @@
+{
+  "name": "tutorial-qraph-ql",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.10.3",
+    "graphql-tools": "^1.1.0"
+  }
+}
